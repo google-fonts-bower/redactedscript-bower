@@ -1,0 +1,17 @@
+{
+    "name": "redactedscript-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Christian Naths"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/redactedscript-bower.git"
+    },
+    "description": "Redacted Script font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
